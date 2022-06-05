@@ -27,7 +27,7 @@ Desktop view
 ![](./screenshots/desktop-view.png)
 
 Mobile view
-![](./screenshots/mobile-view.png)
+![](./screenshots/mobile-view.png | width=450)
 
 ### Links
 
